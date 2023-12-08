@@ -1,11 +1,32 @@
-06/12/2023	18:05:31	a8b4de95-6663-4903-b36b-514f947c6117	/new-page	GET
-06/12/2023	18:05:32	e1fee005-70ac-4805-9d0b-dc11799927d7	/css/style.css	GET
-06/12/2023	18:05:32	9a3b0cad-6593-4a6c-a710-8f0e1f5ec20e	/img/img1.jpg	GET
-06/12/2023	18:05:32	491f289a-c8d4-4d7f-a866-93ac8208bc68	/favicon.ico	GET
-06/12/2023	18:06:06	9c672398-1685-4ef8-89a9-a8e9604acf13	/new-page	GET
-06/12/2023	18:06:37	d413b57c-03e3-4592-bcb3-020a124d890d	/new-page	GET
-06/12/2023	18:06:37	7c681b50-899c-4bfd-8366-1b803cc90e6d	/css/style.css	GET
-06/12/2023	18:06:37	723ec4e0-b72f-499e-ab7f-78744a7c9e0e	/img/img1.jpg	GET
-08/12/2023	10:50:41	88b9c49f-ac42-4533-bbce-0b6d1bb72892	/	GET
-08/12/2023	10:50:41	416ffa44-3b28-4189-a44d-c1c775e2ed90	/css/style.css	GET
-08/12/2023	10:50:42	3cf03af6-3783-4b33-8c67-87103a65ce72	/favicon.ico	GET
+07/12/2023	22:14:39	ce4c1119-3daf-4f35-99e7-85fb03136007	GET	undefined	/
+07/12/2023	22:14:39	c041f1ef-8d98-4866-b37a-6e12e5d4f56c	GET	undefined	/css/style.css
+07/12/2023	22:16:40	ab790eb3-6217-4f13-9c87-3750be7b4f07	GET	undefined	/
+07/12/2023	22:16:40	0cfd22c6-213b-491f-be89-c2b018ac74e2	GET	undefined	/css/style.css
+07/12/2023	22:18:42	7ef3ae9f-2147-4cc2-acbc-831adda978c0	OPTIONS	https://www.google.co.in	/
+07/12/2023	22:18:42	64ac8643-1f7f-44c7-af3c-ca8e2cd9bf95	GET	https://www.google.co.in	/
+07/12/2023	22:20:48	4d3a9aeb-3ffc-4826-bc2f-7a228987eb53	OPTIONS	https://www.google.co.in	/
+07/12/2023	22:20:48	4f7ec467-5157-4509-be20-8cdc195ecbd2	GET	https://www.google.co.in	/
+07/12/2023	22:27:03	1a0b133e-e131-4b35-bab6-350425e1f07e	OPTIONS	https://www.google.co.in	/
+07/12/2023	22:27:03	c1c81908-9d58-45d0-8b6e-4cf8984e3b16	GET	https://www.google.co.in	/
+07/12/2023	22:27:34	9d692813-002d-4f33-9e1b-23bbc8a98b32	OPTIONS	https://www.google.co.in	/
+07/12/2023	22:27:34	3f1fccc2-f91a-484b-9bba-8c745c659499	GET	https://www.google.co.in	/
+07/12/2023	22:27:40	3e923848-f1ca-4394-9b59-d362b5f0f4b2	OPTIONS	https://www.google.co.in	/
+07/12/2023	22:27:40	3d5e5812-f7da-45ba-b26c-bbbbf4091996	GET	https://www.google.co.in	/
+07/12/2023	22:28:16	5fd73c46-2041-465e-a6b0-581cfd1a2a68	OPTIONS	https://www.google.co.in	/
+07/12/2023	22:28:16	60f0c381-ebdf-418b-8004-1451b172b958	GET	https://www.google.co.in	/
+07/12/2023	22:28:59	647cf20e-10eb-4204-a02e-cc2dd4ec5c5c	OPTIONS	https://www.google.co.in	/
+07/12/2023	22:28:59	5d6c8071-4412-4885-9ac6-e7e2c10734f3	GET	https://www.google.co.in	/
+07/12/2023	22:29:45	9d3eaf42-8bf9-4bbc-845c-d051edb1992b	OPTIONS	https://www.google.co.in	/
+07/12/2023	22:29:45	29dae339-6beb-44fc-a51d-a5dc200343a2	GET	https://www.google.co.in	/
+07/12/2023	22:32:07	b09a06ed-368a-467a-8629-d11b11fdcb21	GET	undefined	/
+07/12/2023	22:32:54	56c17dad-2625-4625-8e03-97ec57ed3c06	GET	undefined	/
+07/12/2023	22:32:54	625d26d9-fc0f-427c-846f-62096d28c5c8	GET	undefined	/css/style.css
+07/12/2023	22:36:49	1f7d38cc-7bfc-4f8f-9437-335836d9711e	GET	undefined	/
+07/12/2023	22:37:24	639b52c2-76f5-4849-aff8-151f603e180e	GET	undefined	/
+07/12/2023	22:37:24	e2d3257d-a9b3-4aff-8991-13b8f4fe8bec	GET	undefined	/css/style.css
+07/12/2023	22:38:34	a2243fa7-4784-4702-9412-621a54e4cc67	GET	undefined	/harsha
+07/12/2023	22:38:35	dc86a7f0-aef1-42fb-8cd3-8778235ebb54	GET	undefined	/css/style.css
+07/12/2023	22:41:49	0bf35d42-a9a3-4f06-ba65-d146a0a8675e	GET	undefined	/harsha
+07/12/2023	22:41:49	e6f47a11-08bf-4389-a84f-c94deee53a08	GET	undefined	/css/style.css
+08/12/2023	10:52:21	302a0b0b-aceb-479d-998f-2193961668c5	GET	undefined	/
+08/12/2023	10:52:21	06a1bfff-1908-4c86-8a0f-86427b34fbb1	GET	undefined	/css/style.css
