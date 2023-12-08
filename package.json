@@ -1,16 +1,17 @@
 {
-  "name": "npm-node-package-manager-modules",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.1"
+  },
+  "name": "node-events",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "start": "node index",
     "dev": "nodemon index"
   },
   "author": "Harshavardhan Macherla",
   "license": "ISC",
-  "dependencies": {
-    "date-fns": "^2.30.0",
-    "uuid": "^9.0.1"
-  }
+  "description": ""
 }
